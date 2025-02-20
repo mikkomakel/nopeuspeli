@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mikkomakel.snackf4aaa4789b3c493093cea170875be436"
     },
     "web": {
       "favicon": "./assets/favicon.png"
